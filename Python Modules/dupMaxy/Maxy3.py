@@ -205,8 +205,8 @@ def wishme(text):
 
 # def sendmail(email, subject, contant, name):
 #     from email.message import EmailMessage
-#     email_id = "lalitmaxbusiness@gmail.com"
-#     email_pas = "iwitlggtpqxppmup"
+#     email_id = "Enter you email"
+#     email_pas = "Password your"
 
 #     msg = EmailMessage()
 #     msg["subject"] = subject

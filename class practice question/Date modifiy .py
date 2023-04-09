@@ -1,5 +1,6 @@
-a=input()
-b=input()
-c=input()
+a=45
+b=68
+c=666
 
-print(a+ " "+b,","+c)
+
+print(a)
